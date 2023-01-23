@@ -1,0 +1,24 @@
+{
+  "name": "woyce-api",
+  "version": "1.0.0",
+  "description": "node api sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woyce-tech/node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woyce-tech/node-api/issues"
+  },
+  "homepage": "https://github.com/woyce-tech/node-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
